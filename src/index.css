@@ -1,3 +1,8 @@
+/*
+ * Soul Trail - Global Styles
+ * @author Vishwanath Archak
+ * @description Tailwind CSS directives and global styling for the application
+ */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
