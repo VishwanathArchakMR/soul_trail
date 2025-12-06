@@ -1,3 +1,9 @@
+/**
+ * Soul Trail - AI-Powered Travel Discovery Platform
+ * @author Vishwanath Archak
+ * @description Main application component with routing and layout
+ * @version 1.0.0
+ */
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { AppProvider } from './contexts/AppContext';
